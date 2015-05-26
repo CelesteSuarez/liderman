@@ -5548,4 +5548,9 @@ button.btn.btn-default.btn-lg.text-center, .btn-group-lg > button.btn.btn-defaul
   position: relative;
   left: 500px; }
 
+div#formar {
+  background-image: url(../img/fondo.png);
+  width: 100%;
+  height: 100%; }
+
 /*# sourceMappingURL=main.css.map */
