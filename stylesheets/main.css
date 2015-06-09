@@ -5531,7 +5531,7 @@ button.close {
   color: white; }
 
 nav.navbar.navbar-default {
-  margin-bottom: 0; }
+  margin-bottom: -1.5%; }
 
 .imagen-reconocimiento {
   width: 38%;
