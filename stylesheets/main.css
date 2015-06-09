@@ -5557,4 +5557,9 @@ div#formar {
   background-size: cover;
   width: 100%; }
 
+.flecha {
+  position: relative;
+  margin: 0 auto;
+  width: 8%; }
+
 /*# sourceMappingURL=main.css.map */
